@@ -1,3 +1,5 @@
+what happen between typing a URL and seeing the page?
+
  Terms 
 1.URL= Address of a website or resource.
 2.DNS= Helps translate domain names into IP address .
@@ -21,4 +23,4 @@ HTTP Request and Response
 Webpage Displayed
 
 Conclusion-
-To we enter a URL into a browser , the browser identifies the website, finds its server, requests the webpage, receives the content, and renders it for us to view
+these steps to help access and view website through a web browser
